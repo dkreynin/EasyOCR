@@ -3,7 +3,7 @@ torchvision<=0.5
 opencv-python
 scipy
 numpy
-Pillow>2.0
+Pillow<2.0
 scikit-image
 python-bidi
 PyYAML
